@@ -1,3 +1,5 @@
 Wecome to my blog!!!
 
-Here I will share modelling techniques I learn from STA303 as well as some R coding techniques.
+This is for STA303 professional development.
+
+Here I will share some writings I did for STA303
